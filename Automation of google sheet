@@ -7,10 +7,6 @@ import numpy
 #Setting up file collected from cloud console
 cred_file="healthy-seeker-350608-663a7534ff2d.json"
 gc=gspread.service_account(cred_file)
-cred_file="healthy-seeker-350608-663a7534ff2d.json"
-gc=gspread.service_account(cred_file)
-cred_file="healthy-seeker-350608-663a7534ff2d.json"
-gc=gspread.service_account(cred_file)
 gc
 
 
